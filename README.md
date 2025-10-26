@@ -11,7 +11,7 @@ STEP 2:
 Press the "Start Game" button.
 
 STEP 3:
-Play the game a shown in the video.
+Play the game as shown in the video.
 
 STEP 4:
 Either choose to quit the game or replay to try for a better score.
