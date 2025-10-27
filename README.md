@@ -1,6 +1,6 @@
 
 ## Demo
-![Paver Challenge Screenshot](./assets/Paver_Challenge_ScreenShot.jpg)
+![Paver Challenge Screenshot](./assets/paving_asphalt_paver.png)
 
 
 
